@@ -16,10 +16,10 @@ importlib-metadata==3.7.2
 joblib==1.0.1
 Keras-Preprocessing==1.1.2
 Markdown==3.3.4
-numpy==1.19.5
+numpy~=1.20.1
 oauthlib==3.1.0
 opencv-contrib-python==4.5.1.48
-opencv-python==4.4.0.46
+opencv-python~=4.5.1.48
 opt-einsum==3.3.0
 packaging==20.9
 Pillow==8.1.2
@@ -48,3 +48,5 @@ urllib3==1.26.3
 Werkzeug==1.0.1
 wrapt==1.12.1
 zipp==3.4.1
+
+Keras~=2.4.3

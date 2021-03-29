@@ -1,0 +1,4 @@
+0 Skull
+1 Pikachu
+2 Man
+3 House
